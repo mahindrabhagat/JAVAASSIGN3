@@ -6,6 +6,7 @@ public class Main {
         ok muk=new ok();
         System.out.println(muk.mahi(10));
         System.out.println("THIS IS TESTING PROGRAMME");
+        System.out.println("THIS IS learn coding");
     }
     static class ok {
         int x;
